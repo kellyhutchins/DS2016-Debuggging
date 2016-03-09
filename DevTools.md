@@ -54,7 +54,7 @@ Details on Firefox Scratchpad
 A collection of useful snippets
 [Demo Snippets]
 
-Here are the three esri-related snippets shown in the presentation. Note that these require that map be a global variable.
+To test out these snippets use a test app of your own that has map defined as a global variable or use the [Snippet sample]. Here are the three esri-related snippets shown in the presentation. Note that these require that map be a global variable.
 Get Extent Snippet
 ``` javascript
 (function(){require(["dojo/json"],function(j){console.log(j.stringify(function(){var e=map.extent.toJson();e.xmin=parseInt(e.xmin);e.ymin=parseInt(e.ymin);e.xmax=parseInt(e.xmax);e.ymax=parseInt(e.ymax);return e;}()));})})();
@@ -90,19 +90,7 @@ map.getLevel();
    [Console Demo]: <http://developers.arcgis.com/javascript/samples/widget_basemap/>
    [Debug Demo]: <http://developers.arcgis.com/javascript/samples/query_buffer>
    [Directions]: <http://developers.arcgis.com/javascript/samples/widget_directions_basic/>
-   [@thomasfuchs]: <http://twitter.com/thomasfuchs>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [marked]: <https://github.com/chjj/marked>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [keymaster.js]: <https://github.com/madrobby/keymaster>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
+   [Snippet sample]: <https://developers.arcgis.com/javascript/jssamples/map_simple.html>
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]:  <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
