@@ -7,7 +7,7 @@ Browser based tools to track down issues, inspect css, analyze performance and m
   - [Safari Web Inspector]
   - [Firefox Dev Tools]
   
- All of the browser based dev tools have similar capabilites. We'll explore how to use these options to find and fix issues in your web apps. 
+All of the browser based dev tools have similar capabilites. We'll explore how to use these options to find and fix issues in your web apps. 
 
 Check out [Chrome Canary] or [Firefox Developer Edition] to explore the latest browser features and experiments.
 
