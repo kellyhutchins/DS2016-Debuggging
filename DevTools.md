@@ -44,6 +44,16 @@ Demo App: [Directions]
 
 ### Snippets
 Use snippets to run longer bits of code - can be used to replace bookmarklets. 
+
+Details on Chrome Snippets
+[Chrome Snippets]
+
+Details on Firefox Scratchpad
+[Firefox Scratchpad]
+
+A collection of useful snippets
+[Demo Snippets]
+
 Here are the three esri-related snippets shown in the presentation. Note that these require that map be a global variable.
 Get Extent Snippet
 ``` javascript
@@ -63,11 +73,6 @@ Get Zoom Snippet
 map.getLevel();
 ```
 
-[Chrome Snippets]
-
-[Firefox Scratchpad]
-
-[Demo Snippets]
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
