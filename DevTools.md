@@ -64,7 +64,9 @@ map.getLevel();
 ```
 
 [Chrome Snippets]
+
 [Firefox Scratchpad]
+
 [Demo Snippets]
 
 
